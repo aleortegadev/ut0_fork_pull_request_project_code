@@ -5,6 +5,7 @@ public class Main {
         System.out.println("BIENVENIDO AL EJERCICIO FORK Y PULL REQUEST!");
         System.out.println("WELCOME FORK AND PULL REQUEST EXERCISE");
         System.out.println("___________________________________________");
+        System.out.println("Denis Ignat");
         System.out.println("WRITE YOUR NAME (YOU MUST USE A NEW LINE:");
         System.out.println("JUAN CARLOS ALUMBREROS FRESNEDA");
 
