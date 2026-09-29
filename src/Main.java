@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Ricardo Alcañiz Calero");
 
         System.out.println("Denis Gandrabur");
+        System.out.println("Manuel Sánchez Díaz");
     }
 }
